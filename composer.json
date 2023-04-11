@@ -1,5 +1,5 @@
 {
-    "name": "bkwld/cloner",
+    "name": "ben-everly/cloner",
     "description": "A trait for Laravel Eloquent models that lets you clone of a model and it's relationships, including files.",
     "license": "MIT",
     "authors": [
